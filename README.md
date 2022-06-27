@@ -3,9 +3,11 @@
 <!-- shield-status -->
 <div align="center">
 
+<img src="https://img.shields.io/website?down_message=offline&label=Status&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsukitb.github.io%2Fcolmar-academy%2F">
 <a target="_blank" href="https://github.com/sukitb/colmar-academy/commits/main"><img src="https://img.shields.io/github/last-commit/sukitb/colmar-academy?style=for-the-badge"></a>
 <a target="_blank" href="https://github.com/sukitb/colmar-academy/issues"><img src="https://img.shields.io/github/issues/sukitb/colmar-academy?style=for-the-badge"></a>
 <img target="_blank" src="https://img.shields.io/github/stars/sukitb/colmar-academy?style=for-the-badge">
+
 </div>
 
 </br>
@@ -16,7 +18,8 @@
 <h3>Colmar Academy</h3>
  <p align="center">
     <p>Responsive Landing Page for School.</p>
-    <a target="_blank" href="https://sukitb.github.io/colmar-academy/"><img src="https://img.shields.io/website?down_message=offline&label=DEMO&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsukitb.github.io%2Fcolmar-academy%2F"></a>
+    <a target="_blank" href="https://sukitb.github.io/colmar-academy/"><img src="https://img.shields.io/badge/DEMO-Link-blue?style=for-the-badge"></a>
+
   </p>
 </div>
 
@@ -41,7 +44,8 @@ Colmar Academy project is capstone project from [Build a Website with HTML, CSS,
 
 <details>
 <summary>Demo</summary>
-    <a target="_blank" href="https://sukitb.github.io/colmar-academy/"><img src="https://img.shields.io/website?down_message=offline&label=DEMO&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsukitb.github.io%2Fcolmar-academy%2F"></a>
+    <a target="_blank" href="https://sukitb.github.io/colmar-academy/"><img src="https://img.shields.io/website?down_message=offline&label=STATUS&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsukitb.github.io%2Fcolmar-academy%2F"></a>
+    <a target="_blank" href="https://sukitb.github.io/colmar-academy/"><img src="https://img.shields.io/badge/DEMO-Link-blue?style=for-the-badge"></a>
 </details>
 
 ## Languages & tools
@@ -135,7 +139,7 @@ This is my first capstone project. I've learned a lot since starting the project
 
 - <a target="_blank" href="https://github.com/othneildrew/Best-README-Template">othneildrew
 /Best-README-Template</a>
-- <a target="_blank" href="https://shields.io/">Sheilds.io</a>
+- <a target="_blank" href="https://shields.io/">shields.io</a>
 - <a target="_blank" href="https://github.com/alexandresanlim/Badges4-README.md-Profile">alexandresanlim/Badges4-README.md-Profile</a>
 - <a target="_blank" href="https://www.figma.com/community/file/988547939970295144">Web/Mobile — Template Website</a>
 - <a target="_blank" href="https://www.figma.com/community/file/970586112005772863">Browser Mockups with Variants</a>
