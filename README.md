@@ -5,7 +5,7 @@
 
 <a target="_blank" href="https://github.com/sukitb/colmar-academy/commits/main"><img src="https://img.shields.io/github/last-commit/sukitb/colmar-academy?style=for-the-badge"></a>
 <a target="_blank" href="https://github.com/sukitb/colmar-academy/issues"><img src="https://img.shields.io/github/issues/sukitb/colmar-academy?style=for-the-badge"></a>
-<img src="https://img.shields.io/github/stars/sukitb/colmar-academy?style=for-the-badge">
+<img  src="https://img.shields.io/github/stars/sukitb/colmar-academy?style=for-the-badge">
 </div>
 
 </br>
@@ -148,7 +148,8 @@ This is my first capstone project. I've learned a lot since starting the project
 ---
 
 <!-- REACH ME ON -->
-<footer align="center">
+<footer>
+<div align="center">
 
 ## 🤝🏼Reach me on
 
@@ -157,4 +158,5 @@ This is my first capstone project. I've learned a lot since starting the project
 <a target="_blank" href="https://www.linkedin.com/in/sukit-bunsiri-2a2020203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 <a target="_blank" href="https://sukitbunsiri.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+ </div>
 </footer>
