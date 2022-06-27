@@ -5,7 +5,7 @@
 
 <a target="_blank" href="https://github.com/sukitb/colmar-academy/commits/main"><img src="https://img.shields.io/github/last-commit/sukitb/colmar-academy?style=for-the-badge"></a>
 <a target="_blank" href="https://github.com/sukitb/colmar-academy/issues"><img src="https://img.shields.io/github/issues/sukitb/colmar-academy?style=for-the-badge"></a>
-<img  src="https://img.shields.io/github/stars/sukitb/colmar-academy?style=for-the-badge">
+<img target="_blank" src="https://img.shields.io/github/stars/sukitb/colmar-academy?style=for-the-badge">
 </div>
 
 </br>
